@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Daftar Wisata</string>
+
+    <string name="daftarwisata_name">Daftar Wisata</string>
+    <string name="description">Deskripsi</string>
+    <string name="more" />
+    <string name="content_description_more" />
+    <string-array name="data_name">
+        <item>RAJA AMPAT (Papua)</item>
+        <item>LABUAN BAJO (Nusa Tenggara Timur)</item>
+        <item>DANAU TOBA (Sumatra Utara)</item>
+        <item>GUNUNG BROMO (Jawa Timur)</item>
+        <item>PULAU KOMODO (Nusa Tenggara Timur)</item>
+        <item>BUNAKEN  (Sulawesi Utara)</item>
+        <item>CANDI BOROBUDUR (Jawa Tengah)</item>
+        <item>NUSA PENIDA (Bali)</item>
+        <item>KARIMUN JAWA (Jawa Tengah)</item>
+        <item>WAKATOBI (Sulawesi Tenggara)</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>"Raja Ampat merupakan salah satu objek wisata Indonesia yang mendunia dan diakui Unesco. Keindahan pemandangan bawah lautnya menjadi daya tarik utama Pulau yang ada di ujung timur Indonesia ini</item>
+        <item>"Labuan Bajo dikenal sebagai surga tersembunyi di Indonesia bagian timur. Desa ini berada di Kecamatan Komodo, Kabupaten Manggarai Barat, Provinsi Nusa Tenggara Timur yang berbatasan dengan Nusa Tenggara Barat dan dipisahkan Selat Sape."</item>
+        <item>"Danau Toba di Sumatera Utara merupakan salah satu destinasi super prioritas yang ditetapkan Kementerian Pariwisata dan Ekonomi Kreatif (Kemenparekraf). Danau Toba ini diperkirakan terbentuk dari letusan dahsyat gunung api, Gunung Toba, yang terjadi 74 ribu tahun lalu. "</item>
+        <item>"Wisata Gunung Bromo merupakan salah satu tempat wisata yang menjadi favorit bagi wisatawan baik dalam maupun luar negeri. Gunung Bromo terletak di Probolinggo, Jawa Timur dan memiliki ketinggian 2.392 Mdpl."</item>
+        <item>"Pulau Komodo menjadi salah satu magnet wisata di Kabupaten Manggarai Barat, Nusa Tenggara Timur. Di Pulau Komodo ini kamu bisa melihat kehidupan liar komodo dengan tiga macam paket trekking, yaitu short track, medium track, serta long track.Selama perjalanan pun kamu akan ditemani pawang yang siap menemani dan mengarahkanmu menjelajahi spot-spot terbaik di Labuan Bajo. Selain itu Labuan Bajo juga menyuguhkan pemandangan hamparan sabana dan laut birunya yang ciamik."</item>
+        <item>"Bunaken di Manado, Sulawesi Utara ini telah menjadi salah satu situs warisan Unesco sejak 2005 dan terus dijaga sampai sekarang. Keindahan alam dan keramahan warganya menjadikan kawasan ini sebagai destinasi wisata populer di dalam maupun luar negeri.Kawasan ini merupakan kawasan konservasi yang ditetapkan Menteri Kehutanan pada 1991. Pemandangan alam bawah lautnya menjadi magnet bagi para penyelam."</item>
+        <item>"Borobudur merupakan salah satu kabupaten di Magelang, Jawa Tengah yang terkenal dengan candi Buddha. Candi ini dibangun Raja Samaratungga dari Dinasti Syailendra pada abad ke-8.Candi Borobudur memiliki relief yang menggambarkan kehidupan sang Buddha dan reinkarnasinya dalam bentuk cerita Jataka dan Lalitavistara."</item>
+        <item>"Nusa Penida merupakan salah satu kecamatan di Klungkung, Bali. Kawasan ini terkenal dengan objek wisata berbentuk pulau yang menjadi magnet bagi wisatawan.  Nusa Penida terdiri dari tiga pulau yang berpenghuni yakni Pulau Nusa Penida, Pulau Lembongan, dan Pulau Ceningan. Kepulauan Nusa Penida ini memiliki luas wilayah sekitar 210 meter persegi dan terdiri dari 16 desa dinas dan 48 desa adat."</item>
+        <item>"Karimunjawa merupakan salah satu daerah di Kabupaten Jepara, Jawa Tengah. Pulau-pulau ini menyembunyikan berbagai potensi pesona keindahan alam, pegunungan, pasir putih pantai, dan dunia bawah laut."</item>
+        <item>"Wakatobi dikenal sebagai rumah dari pemandangan laut yang cantik. Luas lokasi taman nasional ini mencapai 1, 4 juta hektar, dengan 900 ribu hektar di antaranya memiliki berbagai macam spesies terumbu karang. Selain terumbu karang, di Wakatobi juga terdapat atol dan barrier. Jika Anda hobi diving atau menyelam, lokasi ini sangat cocok untuk dijadikan destinasi. Ada sekitar 50 lokasi penyelaman yang tersebar di Wakatobi."</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/raja_ampat</item>
+        <item>@drawable/labuan_bajo</item>
+        <item>@drawable/danau_toba</item>
+        <item>@drawable/gunung_bromo</item>
+        <item>@drawable/pulau_komodo</item>
+        <item>@drawable/bunaken</item>
+        <item>@drawable/borobudur</item>
+        <item>@drawable/nusapenida</item>
+        <item>@drawable/karimun</item>
+        <item>@drawable/wakatobi</item>
+    </integer-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="lorem_ipsum_title">Lorem Ipsum"</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="fab_content_description">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description">Represents an image view in the
+        item
+    </string>
+</resources>
